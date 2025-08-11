@@ -1,2 +1,2 @@
-py-telegram-bot-api==4.12.0
+py-telegram-bot-api==4.17.1
 moviepy==1.0.3
